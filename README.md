@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mostafa Mahmoud and I'm a 📱 Flutter Developer | 🌐 Back-End Developer| 🎨 Artist </h2>
+<h2 align="left">Hi 👋! My name is Mostafa Mahmoud and I'm a 📱 Mobile App Developer [Kotlin - Flutter] | 🌐 Back-End Developer| 🎨 Artist </h2>
 
 ###
 
