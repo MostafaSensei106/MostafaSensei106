@@ -1,23 +1,9 @@
-<br clear="both">
-
 <h1 align="left">✨Hey there, I’m Mostafa Sensei106!👋</h1>
-
-###
-
-<br clear="both">
-
 <p align="left">My name is Mostafa Mahmoud and I'm a 📱 Mobile App Developer [Flutter] | 🌐 Back-End Developer | 🎨 Artist.</p>
-
-###
-
-<br clear="both">
-
 <img align="right" height="153" width="159" src="gif/anime-frieren.gif"  />
 
 ###
-
 <p align="left">✨ Creating bugs since I started coding! 🐛😆<br>📚 I'm currently learning Japanese & mastering advanced software engineering.<br>🎯 Goals: Becoming a top mobile app software engineer in Japan.<br>🎲 Fun fact: I love spicy food & enjoy gaming in my free time. 🔥🎮<br>🚀: Building innovative apps, pushing the limits of tech & design.<br>🌟 Always learning, always building! 🚀</p>
-
 ###
 
 <div align="left">
@@ -37,7 +23,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
 </div>
-
 ###
 
 <div align="center">
@@ -47,5 +32,4 @@
 
 ###
 <img src="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/snake.svg" alt="Snake animation" />
-
 ###
