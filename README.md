@@ -1,6 +1,6 @@
 <h1 align="left">✨Hey there, I’m Mostafa Sensei106!👋</h1>
 
-<p align="left">My name is Mostafa Mahmoud and I'm a 📱 Mobile App Developer [Flutter] | 🌐 Back-End Developer | 🎨 Artist.</p>
+<p align="left">My name is Mostafa Mahmoud and I'm a 📱 Mobile App Developer [Kotlin - Flutter] | 🌐 Back-End Developer | 🎨 Artist.</p>
 
 <img align="right" height="153" width="159" src="gif/anime-frieren.gif"  />
 
