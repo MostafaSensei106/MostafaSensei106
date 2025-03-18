@@ -2,6 +2,7 @@
 
 <p align="left">My name is Mostafa Mahmoud and I'm a 📱 Mobile App Developer [Kotlin - Flutter] | 🌐 Back-End Developer | 🎨 Artist.</p>
 
+
 <img align="right" height="153" width="159" src="gif/anime-frieren.gif"  />
 
 <p align="left">✨ Creating bugs since I started coding! 🐛😆<br>📚 I'm currently learning Japanese & mastering advanced software engineering.<br>🎯 Goals: Becoming a top mobile app software engineer in Japan.<br>🎲 Fun fact: I love spicy food & enjoy gaming in my free time. 🔥🎮<br>🚀: Building innovative apps, pushing the limits of tech & design.<br>🌟 Always learning, always building! 🚀</p>
