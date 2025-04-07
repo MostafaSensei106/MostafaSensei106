@@ -25,10 +25,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MostafaSensei106&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_latte&locale=en&hide_border=true&order=1" height="145"  walt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MostafaSensei106&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=catppuccin_latte&hide_border=true&order=2" height="145" alt="languages graph"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/snake.svg" alt="Snake animation" />
+
+<a href="https://www.buymeacoffee.com/7yZ1LqKEgy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=7yZ1LqKEgy&button_colour=f0e5d5&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
