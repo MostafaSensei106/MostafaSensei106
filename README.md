@@ -62,6 +62,6 @@
 ## Support My Work
 <div align="left">
   <a href="https://www.buymeacoffee.com/7yZ1LqKEgy">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Support my work&emoji=☕&slug=7yZ1LqKEgy&button_colour=f0e5d5&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" />
+    <img src="https://img.buymeacoffee.com/button-api/?text=Support my work&emoji=☕&slug=7yZ1LqKEgy&button_colour=f0e5d5&font_colour=000000&outline_colour=000000&coffee_colour=FFDD00" />
   </a>
 </div>
