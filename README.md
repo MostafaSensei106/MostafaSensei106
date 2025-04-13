@@ -52,9 +52,7 @@
 ## Contribution Activity
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=MostafaSensei106&locale=en&mode=weekly&theme=catppuccin_latte&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MostafaSensei106&theme=catppuccin_latte&column=-1&row=2&margin-w=5&margin-h=5&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/pacman-contribution-graph.svg">
