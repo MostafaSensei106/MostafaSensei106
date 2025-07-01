@@ -46,7 +46,7 @@
 ## GitHub Analytics
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MostafaSensei106&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=325&disable_animations=false&theme=catppuccin_latte&locale=en&hide_border=true&order=1" height="145" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MostafaSensei106&locale=en&hide_title=true&layout=compact&card_width=325&langs_count=6&theme=catppuccin_latte&hide_border=true&order=2" height="145" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MostafaSensei106&locale=en&hide_title=true&layout=compact&card_width=325&langs_count=7&theme=catppuccin_latte&hide_border=true&order=2" height="145" alt="languages graph"/>
 </div>
 
 ## Contribution Activity
