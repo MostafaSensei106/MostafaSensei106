@@ -45,8 +45,7 @@
 
 ## GitHub Analytics
 <div align="left">
-  <img src="https://githubcard.com/MostafaSensei106.svg?d=tnfhJTVx" height="145" alt="stats graph"/>
-  <img src="https://githubcard.com/MostafaSensei106.svg?d=iQfL-FZX" height="145" alt="languages graph"/>
+  <img src="[https://githubcard.com/MostafaSensei106.svg?d=tnfhJTVx](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MostafaSensei106&theme=github)" height="145" alt="stats graph"/>
 </div>
 
 ## Contribution Activity
