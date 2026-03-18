@@ -52,11 +52,7 @@
 </div>
 
 ## Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/snake.svg" alt="Snake animation" />
 
 ## Support My Work
 <div align="left">
