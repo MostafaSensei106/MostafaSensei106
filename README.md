@@ -45,7 +45,9 @@
 
 ## GitHub Analytics
 <div align="left">
-
+<img src="https://github-readme-stats.vercel.app/api?username=MostafaSensei106&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&height=200"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSensei106&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_title=true&height=250"/>
 </div>
 
 ## Contribution Activity
@@ -57,7 +59,6 @@
 
 ## Support My Work
 <div align="left">
-  <a href="https://www.buymeacoffee.com/7yZ1LqKEgy">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy Me a Coffee &emoji=☕&slug=7yZ1LqKEgy&button_colour=f0e5d5&font_colour=000000&outline_colour=000000&coffee_colour=FFDD00" />
-  </a>
-</div>
+  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/![](https://github-readme-stats.vercel.app/api?username=MostafaSensei106&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=true)) 
+  </div>
