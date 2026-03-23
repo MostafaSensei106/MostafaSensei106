@@ -46,10 +46,11 @@
 
 ## GitHub Analytics
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaSensei106&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=true&hide_title=true&height=200"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSensei106&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_title=true&height=250"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=MostafaSensei106&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSensei106&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Contribution Activity
 <img src="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/snake.svg" alt="Snake animation" />
