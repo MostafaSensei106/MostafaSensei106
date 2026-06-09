@@ -47,7 +47,7 @@
 ## GitHub Analytics
 <div align="left">
   
-![](https://github-readme-stats.vercel.app/api?username=MostafaSensei106&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Top Languages](https://githubreadmestats-delta.vercel.app/api/top-langs/?username=Amr-shawky&layout=compact&theme=radical&border_radius=10)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSensei106&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
